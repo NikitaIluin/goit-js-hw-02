@@ -18,3 +18,7 @@ console.log(checkForSpam("Amazing SalE, only tonight!")); // true
 console.log(checkForSpam("Trust me, this is not a spam message")); // true
 console.log(checkForSpam("Get rid of sPaM emails. Our book in on sale!")); // true
 console.log(checkForSpam("[SPAM] How to earn fast money?")); // true
+console.log(checkForSpam("[SPAM] lol i'm good")) // true 
+console.log(checkForSpam("Trade the new Rengoko Vampire"))// true
+console.log(checkForSpam("MAxi is a gay"))// false
+ CSSAnimation()
